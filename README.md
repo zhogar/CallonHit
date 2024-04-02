@@ -60,3 +60,5 @@ Description of the principle of operation of the system
 +-----------------------------------------------------------------------+
 
 p.s. It's simple enough to drop, shake or hit the phone..
+
+Copyright (c) Vasiliy Zhogarev, ~2013 year..
